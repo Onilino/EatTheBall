@@ -1,9 +1,6 @@
 # EatTheBall
 A python 3.5 game in local multiplayer
 
-
-# Eat The Ball
-
 This game have been made with python editor and can actually not be launched whitout whithout command line.
 
 
