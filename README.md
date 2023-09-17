@@ -1,4 +1,6 @@
 # EatTheBall
+
+My very first IT school project (obviously not finished and left over since 2015 🙂)
 A python 3.5 game in local multiplayer
 
 
